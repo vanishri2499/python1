@@ -1,0 +1,4 @@
+Software Team: 15
+Marketing Team: 56
+Technical Team: 25
+Managing Team: 15
